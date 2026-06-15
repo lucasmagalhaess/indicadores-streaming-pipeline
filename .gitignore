@@ -1,0 +1,6 @@
+infra/.terraform/
+infra/terraform.tfstate*
+infra/lambda_consumer.zip
+.env
+__pycache__/
+*.pyc
